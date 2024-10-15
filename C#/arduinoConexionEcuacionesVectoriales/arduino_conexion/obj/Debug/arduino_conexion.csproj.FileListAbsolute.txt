@@ -1,0 +1,10 @@
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\bin\Debug\arduino_conexion.exe.config
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\bin\Debug\arduino_conexion.exe
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\bin\Debug\arduino_conexion.pdb
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\obj\Debug\arduino_conexion.csproj.AssemblyReference.cache
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\obj\Debug\arduino_conexion.Form1.resources
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\obj\Debug\arduino_conexion.Properties.Resources.resources
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\obj\Debug\arduino_conexion.csproj.GenerateResource.cache
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\obj\Debug\arduino_conexion.csproj.CoreCompileInputs.cache
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\obj\Debug\arduino_conexion.exe
+C:\Users\jrgdc\source\repos\arduino_conexion\arduino_conexion\obj\Debug\arduino_conexion.pdb

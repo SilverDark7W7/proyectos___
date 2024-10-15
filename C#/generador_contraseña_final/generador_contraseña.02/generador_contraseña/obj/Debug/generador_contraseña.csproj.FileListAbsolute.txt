@@ -1,0 +1,107 @@
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.exe.config
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.exe
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.pdb
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.AssemblyReference.cache
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Form1.resources
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Properties.Resources.resources
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.GenerateResource.cache
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.CoreCompileInputs.cache
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.exe
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.pdb
+C:\Users\jrgdc\source\repos\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Login.resources
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.exe.config
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.exe
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.pdb
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.AssemblyReference.cache
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Form1.resources
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Login.resources
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Properties.Resources.resources
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.GenerateResource.cache
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.CoreCompileInputs.cache
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.exe
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avanceee\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.pdb
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.exe.config
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.exe
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\bin\Debug\generador_contraseña.pdb
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.AssemblyReference.cache
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Form1.resources
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Login.resources
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.Properties.Resources.resources
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.GenerateResource.cache
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.csproj.CoreCompileInputs.cache
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.exe
+C:\Users\delac\OneDrive\Documentos\archivos pgr\generador_contraseña avance mio\generador_contraseña\generador_contraseña\obj\Debug\generador_contraseña.pdb
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.AssemblyReference.cache
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.formularios.busqueda.busqueda_contraseñas.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.registro_ususario.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Cambiar_datos_usuario.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.guardado_generador.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.menu.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.usuario1.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Login.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Guardar_contraseña.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.formularios.olvidado_contraseña.olvido_contra.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Properties.Resources.resources
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.GenerateResource.cache
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.CoreCompileInputs.cache
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\bin\Debug\base_datos\Login.mdf
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\bin\Debug\base_datos\Login_log.ldf
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe.config
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe.manifest
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.application
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.pdb
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.exe.manifest
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.application
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.exe
+C:\Users\jrgdc\source\repos\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.pdb
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\bin\Debug\base_datos\Login.mdf
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\bin\Debug\base_datos\Login_log.ldf
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe.config
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe.manifest
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.application
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.pdb
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.AssemblyReference.cache
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.formularios.busqueda.busqueda_contraseñas.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.registro_ususario.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Cambiar_datos_usuario.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.guardado_generador.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.menu.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.usuario1.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Login.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Guardar_contraseña.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.formularios.olvidado_contraseña.olvido_contra.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Properties.Resources.resources
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.GenerateResource.cache
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.CoreCompileInputs.cache
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.exe.manifest
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.application
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.exe
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.pdb
+C:\Users\delac\Music\generador_contraseña_posiblemente_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.control_txt.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\bin\Debug\base_datos\Login.mdf
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\bin\Debug\base_datos\Login_log.ldf
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe.config
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe.manifest
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.application
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.exe
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\bin\Debug\generador_contraseña.pdb
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.AssemblyReference.cache
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.control_txt.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.formularios.busqueda.busqueda_contraseñas.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.registro_ususario.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Cambiar_datos_usuario.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.guardado_generador.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.menu.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.usuario1.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Login.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Guardar_contraseña.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.formularios.olvidado_contraseña.olvido_contra.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.Properties.Resources.resources
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.GenerateResource.cache
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.csproj.CoreCompileInputs.cache
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.exe.manifest
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.application
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.exe
+C:\Users\delac\OneDrive\Documentos\Programación\2023\VISUAL\generador_contraseña_final\generador_contraseña.02\generador_contraseña\obj\Debug\generador_contraseña.pdb

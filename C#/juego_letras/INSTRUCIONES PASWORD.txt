@@ -1,0 +1,9 @@
+instruciones PASWOR
+
+-crear su archivo,con sus palabras,las palabras tenen que tenes un salto de linea cada una asi no tendra error el programa en ejecutar el archivo
+-ejecute el programa 
+-clik donde se le dice archivo, le aparecere una ventana emergente de explorador
+-busque su archivo de palabras SOLO ARCHIVOS CON LA EXTENCION .TXT
+-le aparecera la primera palabra
+-poner tiempo en el apartado donde estan los 0(solo en segundos funciona el temporizador)
+-termina el tiempo darle siguiente y cambiara la palabra y repetir el tiempo correspondinte para el juego 

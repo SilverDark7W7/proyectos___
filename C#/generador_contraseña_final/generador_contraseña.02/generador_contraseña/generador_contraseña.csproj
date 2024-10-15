@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{698ECB3B-0E9F-4C86-BA60-DD98D7FEA4FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>generador_contraseña</RootNamespace>
+    <AssemblyName>generador_contraseña</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\jrgdc\OneDrive\Escritorio\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F06F86F61D069677EC4C6561BFD7D3A0776641D9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>generador_contraseña_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class_new_buttons.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="control_txt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control_txt.Designer.cs">
+      <DependentUpon>control_txt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\busqueda\busqueda_contraseñas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\busqueda\busqueda_contraseñas.Designer.cs">
+      <DependentUpon>busqueda_contraseñas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\MoD_usuario\Cambiar_datos_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\MoD_usuario\Cambiar_datos_usuario.Designer.cs">
+      <DependentUpon>Cambiar_datos_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\coneciones_sql_entrada_salida_datos.cs" />
+    <Compile Include="clases\generador _ vereificacionPASWORD.cs" />
+    <Compile Include="formularios\generador_G\guardado_generador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\generador_G\guardado_generador.Designer.cs">
+      <DependentUpon>guardado_generador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\menu\menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\menu\menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\generador_G\generador_contra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\generador_G\generador_contra.Designer.cs">
+      <DependentUpon>generador_contra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\login\login_usuario_sesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\login\login_usuario_sesion.Designer.cs">
+      <DependentUpon>login_usuario_sesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Guardado\banco_contrasenas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Guardado\banco_contrasenas.Designer.cs">
+      <DependentUpon>banco_contrasenas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\olvidado_contraseña\olvido_contra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\olvidado_contraseña\olvido_contra.Designer.cs">
+      <DependentUpon>olvido_contra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="formularios\login\registro_ususario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\login\registro_ususario.Designer.cs">
+      <DependentUpon>registro_ususario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\usuario2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\usuario2.Designer.cs">
+      <DependentUpon>usuario2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\TemaColors.cs" />
+    <EmbeddedResource Include="control_txt.resx">
+      <DependentUpon>control_txt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\busqueda\busqueda_contraseñas.resx">
+      <DependentUpon>busqueda_contraseñas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\login\registro_ususario.resx">
+      <DependentUpon>registro_ususario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\MoD_usuario\Cambiar_datos_usuario.resx">
+      <DependentUpon>Cambiar_datos_usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\generador_G\guardado_generador.resx">
+      <DependentUpon>guardado_generador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\menu\menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\generador_G\generador_contra.resx">
+      <DependentUpon>generador_contra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\login\login_usuario_sesion.resx">
+      <DependentUpon>login_usuario_sesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Guardado\banco_contrasenas.resx">
+      <DependentUpon>banco_contrasenas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\olvidado_contraseña\olvido_contra.resx">
+      <DependentUpon>olvido_contra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="generador_contraseña_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="base_datos\Login.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="base_datos\Login_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Login.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\programador.png" />
+    <None Include="Resources\eliminar.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\lapiz.png" />
+    <None Include="Resources\disquete.png" />
+    <None Include="Resources\bloquear1.png" />
+    <None Include="Resources\bloquear.png" />
+    <None Include="Resources\volver.png" />
+    <None Include="Resources\menos-linea-recta-horizontal1.png" />
+    <None Include="Resources\apagar.png" />
+    <None Include="Resources\cerrar.png" />
+    <None Include="Resources\esconder.png" />
+    <None Include="Resources\ver.png" />
+    <None Include="Resources\menos-linea-recta-horizontal.png" />
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

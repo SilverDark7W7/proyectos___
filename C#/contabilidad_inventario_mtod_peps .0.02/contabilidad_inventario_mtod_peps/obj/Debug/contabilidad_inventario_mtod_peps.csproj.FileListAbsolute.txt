@@ -1,0 +1,77 @@
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe.config
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.AssemblyReference.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.inicio.resources
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Properties.Resources.resources
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.GenerateResource.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.CoreCompileInputs.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\bin\Debug\inventario.mdf
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps\contabilidad_inventario_mtod_peps\bin\Debug\inventario_log.ldf
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\inventario.mdf
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\inventario_log.ldf
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe.config
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.AssemblyReference.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.inicio.resources
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Properties.Resources.resources
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.GenerateResource.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.CoreCompileInputs.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Datos_completos.resources
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\inventario.mdf
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\inventario_log.ldf
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe.config
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.AssemblyReference.cache
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Datos_completos.resources
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.inicio.resources
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Properties.Resources.resources
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.GenerateResource.cache
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.CoreCompileInputs.cache
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\delac\Downloads\contabilidad_inventario_mtod_peps - copia seguridad_compra_venta(solo por compras)\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\inventario.mdf
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\inventario_log.ldf
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe.config
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.AssemblyReference.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Datos_completos.resources
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.inicio.resources
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Properties.Resources.resources
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.GenerateResource.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.CoreCompileInputs.cache
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\jrgdc\OneDrive\Escritorio\visual_c#\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.pdb
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\inventario.mdf
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\inventario_log.ldf
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe.config
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.pdb
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.AssemblyReference.cache
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Datos_completos.resources
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.inicio.resources
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Properties.Resources.resources
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.GenerateResource.cache
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.CoreCompileInputs.cache
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.exe
+D:\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\inventario.mdf
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\inventario_log.ldf
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe.config
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\bin\Debug\contabilidad_inventario_mtod_peps.pdb
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.AssemblyReference.cache
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Datos_completos.resources
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.inicio.resources
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.Properties.Resources.resources
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.GenerateResource.cache
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.csproj.CoreCompileInputs.cache
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.exe
+C:\Users\delac\OneDrive\Documentos\contabilidad_inventario_mtod_peps .0.02\contabilidad_inventario_mtod_peps\obj\Debug\contabilidad_inventario_mtod_peps.pdb
